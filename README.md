@@ -14,3 +14,8 @@ Supported architectures are:
 
 The latest tag (or no tag) is the multi-arch manifest, i.e. `docker pull markgrimes/dnsmasq` or
 `docker pull markgrimes/dnsmasq:latest` will automatically select the correct image for your system.
+
+## Links
+
+The image is available on Docker Hub as [markgrimes/dnsmasq](https://hub.docker.com/r/markgrimes/dnsmasq/) and the build
+files are in the [mark-grimes/Dockerfile_dnsmasq](https://github.com/mark-grimes/Dockerfile_dnsmasq) GitHub repository.
